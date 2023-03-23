@@ -37,3 +37,6 @@ mongoose
 //Using routes
 // Using Main UI Route
 app.use("/", index);
+
+
+module.exports = app

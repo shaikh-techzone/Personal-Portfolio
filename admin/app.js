@@ -119,3 +119,6 @@ app.use("/", login);
 app.use("/", register);
 // Using Logout Route
 app.use("/", logout);
+
+
+module.exports = app
